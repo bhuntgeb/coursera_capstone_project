@@ -1,0 +1,12 @@
+name: NextWordPred
+title: NextWordPred
+username:
+account: bhuntge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 885314
+bundleId: 2087201
+url: https://bhuntge.shinyapps.io/NextWordPred/
+when: 1557948131.63442
+asMultiple: FALSE
+asStatic: FALSE
